@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle iridium",
+        "command": "iridium:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "iridium",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "iridium:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
