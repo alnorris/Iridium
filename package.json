@@ -1,7 +1,7 @@
 {
   "name": "iridium",
   "main": "./lib/iridium",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Intelligent Javascript code completion for Atom",
   "keywords": [],
   "activationCommands": {
