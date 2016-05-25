@@ -2,7 +2,7 @@
   "name": "iridium",
   "main": "./lib/iridium",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "Intelligent Javascript code completion for Atom",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "iridium:toggle"
