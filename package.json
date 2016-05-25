@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "iridium:toggle"
   },
-  "repository": "https://github.com/atom/iridium",
+  "repository": "https://github.com/matchesfashion/Iridium.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
