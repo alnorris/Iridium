@@ -1,5 +1,5 @@
 {
-  "name": "iridium",
+  "name": "Iridium",
   "main": "./lib/iridium",
   "version": "0.1.1",
   "description": "Intelligent Javascript code completion for Atom",
